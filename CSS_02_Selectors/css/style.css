@@ -1,0 +1,15 @@
+main > h1:first-child {
+    color: blue;
+}
+
+main h1 {
+    background-color: burlywood;
+}
+
+ul > .amazonOrange {
+    background-color: orange;
+}
+
+ol li {
+    color: red;
+}
