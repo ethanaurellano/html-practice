@@ -1,0 +1,6 @@
+let message = "";
+
+for (let i = 0; i < 7; i++) {
+    message = message + "#";
+    console.log(message);
+}
